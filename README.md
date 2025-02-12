@@ -1,6 +1,6 @@
 # Google Sheet Change Monitor with Slack Notifications
 
-This script monitors a **Google Sheet (CSV format)** for any changes and sends a **Slack notification** when new data is detected.
+This script monitors a **Google Sheet (CSV format)** for any changes and sends a **Slack notification** when new data is detected using slack webhook
 
 
 ## 🚀 Features
