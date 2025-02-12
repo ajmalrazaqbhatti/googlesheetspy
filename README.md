@@ -2,7 +2,6 @@
 
 This script monitors a **Google Sheet (CSV format)** for any changes and sends a **Slack notification** when new data is detected.
 
----
 
 ## 🚀 Features
 - ✅ **Monitors Google Sheets for changes without using Google API (100% free)**
@@ -11,7 +10,7 @@ This script monitors a **Google Sheet (CSV format)** for any changes and sends a
 - ✅ **Runs on GitHub Actions for free, no server needed**
 - ✅ **Lightweight and cost-free deployment**
 
----
+
 
 ## 📌 Setup & Usage
 
@@ -20,7 +19,7 @@ This script monitors a **Google Sheet (CSV format)** for any changes and sends a
 2. Click **File > Share > Publish to Web**  
 3. Select **CSV format** and copy the link  
 
----
+
 
 ### **2️⃣ Deploy the Script on Your GitHub (Using Actions)**
 #### ✅ **Automatic Monitoring Without a Server**
@@ -48,9 +47,9 @@ This script monitors a **Google Sheet (CSV format)** for any changes and sends a
 
 6. **Your script will now run every 5 minutes! 🎉**  
 
----
 
-### **✅ Alternative: Run on Your Own Machine*
+
+### **✅ Alternative: Run on Your Own Machine**
 
 **Download and run manually**
    ```bash
